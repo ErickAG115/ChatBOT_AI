@@ -1,0 +1,2 @@
+Contrato de compraventa
+Objeto: Vehículo marca Toyota, modelo 2015. Precio acordado: $7,000 USD.

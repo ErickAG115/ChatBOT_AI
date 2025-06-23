@@ -1,0 +1,2 @@
+Contrato de alquiler de equipo
+Se arrienda un generador eléctrico por un período de 3 meses, con opción a renovación.

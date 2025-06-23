@@ -1,0 +1,2 @@
+Contrato de préstamo
+El prestamista otorga $5,000 al prestatario con un interés anual del 5%.
