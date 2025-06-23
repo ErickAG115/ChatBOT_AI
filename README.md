@@ -1,4 +1,5 @@
 # Instrucciones para correr el ChatBOT
+## Link al repositorio https://github.com/ErickAG115/ChatBOT_AI
 - Instalar las librerías necesarias para correr el programa
   - pip install -U langchain langchain-community langchain-ollama langchain-huggingface faiss-cpu sentence-transformers
 - Instalar Ollama y correr el siguiente comando en un CMD
