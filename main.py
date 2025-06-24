@@ -15,7 +15,7 @@ def main():
         answer = drafter.invoke({"context": context})
         # validate the drafter answer
         validator = validator_agent()
-        validation = validator.invoke({"respuesta": answer})
+        validation = validator.invoke({"answer": answer})
         print("\nRespuesta legal:\n", answer)
         print("\nValidación jurídica:\n", validation)
         question = input("¿Tienes otra pregunta? Escribe 'salir' si deseas terminar el chat: ")
