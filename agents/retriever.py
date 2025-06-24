@@ -7,7 +7,6 @@ from langchain.chains import RetrievalQA
 # data retreival
 def get_retriever():
     db = FAISS.load_local("vectorstore/faiss_index", HuggingFaceEmbeddings(), allow_dangerous_deserialization=True)
-
     return db.as_retriever()
 
 # agent generation
